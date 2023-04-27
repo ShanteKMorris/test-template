@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in *Cyber Security, BBA*.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shante-morris-pmp®-ba563772/">
+  <a href="https://www.linkedin.com/in/shante-morris-pmp-ba563772/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
